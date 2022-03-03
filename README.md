@@ -5,6 +5,7 @@ An NFT contract that can make 100% accurate calculations at the specified limits
 Example calculation;
 
 First 100 item selling price = 0.1 eth;
+
 Next 100 item selling price = 0.2 eth;
 
 Amount of items sold = 95;
